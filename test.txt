@@ -1,1 +1,2 @@
 thit is my firts document on Git
+and this is second editing
